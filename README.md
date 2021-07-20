@@ -1,2 +1,2 @@
-# Jeannette_Portfolio
+# Jeannette_DatabasePortfolio
 Example database portfolio
